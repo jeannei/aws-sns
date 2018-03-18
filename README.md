@@ -14,7 +14,7 @@ You will need to install:
 
 ### Installing
 
-Now run `aws configure` to configure your default profile. You will need to access to the aws console to obtain your `access key` and `secret key`.
+Now run `aws configure` to configure your default profile. You will need to access the aws console to obtain your `access key` and `secret key`.
 
 Next run `npm i` from the project directory.
 
